@@ -1,5 +1,5 @@
 #!/bin/bash
-
+d
 echo "🔍 File Content Search"
 echo "----------------------"
 read -p "Search string: " QUERY
